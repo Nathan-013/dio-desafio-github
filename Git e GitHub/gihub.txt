@@ -1,0 +1,3 @@
+1 - escolher o diretorio onde o arquivo sera guardado;
+2 - copiar o https no git;
+3 - 'git clone' e colar a url do arquivo git.

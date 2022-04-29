@@ -1,0 +1,6 @@
+git init (inicializa o repositorio git no diretorio)
+git add (adiciona as pastas ao repositorio  git)
+git commit (commita os arquivos do git)
+git status (mostra o status dos arquivos)
+git push(empurra os arquivos para um servirdor)
+git pull(puxa os arquivos para sua maquina local)

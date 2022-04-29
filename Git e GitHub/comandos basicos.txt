@@ -1,0 +1,19 @@
+COMANDOS BÁSICOS DE NAVEGAÇÃO NO TERMINAL
+	WINDOWS                       UNIT(LINUX/MAC)
+cd - MUDAR DE DIRETORIO		-> cd	
+dir - LISTA AS PASTAS		-> ls
+mkdir - CRIA PASTA		-> mkdir
+del/rmdir - deletar arquivos/..dir
+cls - LIMPAR CMD		-> clear(ctrl+l) 
+tab - AUTO COMPLETE
+echo - PRINTA NO CONSOLE
+
+FLAGS (conferir na doc https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
+
+cd.. (voltar)			-> cd.
+echo xxx > xxx.txt CRIA ARQUIVO TXT NO DIRETORIO
+-a (mostra arquivos ocultos)
+
+COMANDOS MOSTRADOS NO CURSO (ND BASICO)
+openssl sha1 nome_do_arquivo MOSTRA O CODIGO SHA1 DESSE ARQUIVO
+	
