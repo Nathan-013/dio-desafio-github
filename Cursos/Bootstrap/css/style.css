@@ -1,0 +1,42 @@
+body {
+  font: 20px arial-serif;
+}
+
+.navbar {
+  background-color: #D2B4DE;
+}
+
+li a {
+  font-size: 25px;
+}
+
+.quem-somos {
+  background-color: #2C3E50;
+  color: #fff;
+}
+
+.parceiros{
+  background-color: #5DADE2 ;
+  color: #FFF;
+}
+
+.servicos {
+  background-color: #D35400 ;
+  color: #FFF;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.img-servicos {
+  max-width: 545px;
+  max-height: 290px;
+}
+
+.bg-footer {
+  background-color: #000;
+  color:#FFF;
+  margin: 0;
+}

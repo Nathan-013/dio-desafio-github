@@ -1,0 +1,11 @@
+-adicionar um id a um elemento faz com que ele possa atribuido a um link.
+
+-cointainer-fluid pega a página inteira (em largura)
+
+-Para organizar elementos um ao lado do outro usa-se este padrão
+<div class="container">
+   <div class="row">
+      <div class="col-md-4">
+OBS: a soma dos números da classe 'col-md-x', devem somar 12, para ficar no mesmo 'nivel'. Se ultrapassar, irá para a linha de baixo. 
+
+- 
